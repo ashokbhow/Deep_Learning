@@ -3,3 +3,4 @@
 # NLP
 # Music
 # Machine translation
+# Trigger word detection (apple Siri)
